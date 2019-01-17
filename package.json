@@ -1,0 +1,24 @@
+{
+  "name": "gatsby-remark-slideshare",
+  "version": "0.1.1",
+  "description": "Embed SlideShare presentations in Gatsby markdown.",
+  "main": "index.js",
+  "author": "Jairo Rondon <jrondon@anexusit.com>",
+  "license": "MIT",
+  "keywords": ["gatsby", "gatsby-plugin", "remark", "markdown", "slideshare"],
+  "dependencies": {
+    "babel-runtime": "^6.26.0",
+    "unist-util-visit": "^1.1.3",
+    "node-fetch": "^2.3.0"
+  },
+  "devDependencies": {
+    "babel-cli": "^6.26.0",
+    "cross-env": "^5.0.5",
+    "unist-util-map": "^1.0.3"
+  },
+  "homepage": "https://github.com/weknowinc/gatsby-remark-slideshare#readme",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/weknowinc/gatsby-remark-slideshare.git"
+  }
+}
